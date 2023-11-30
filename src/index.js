@@ -2,8 +2,8 @@ import opcao from "readline-sync";
 import {salarioMinimo, inflacao} from '../data/dados.js';
 
 console.log("Escolha uma das alternativas: \n");
-console.log("1 - Listar os salários mínimos de 2010 à 2020\n");
-console.log("2 - Listar o índice IPCA de 2010 à 2020\n");
+console.log("1 - Listar os salários mínimos de 1994 à 2023\n");
+console.log("2 - Listar o índice IPCA de 1994 à 2023\n");
 console.log("3 - Comparação entre o percentual de aumento salarial e o IPCA\n");
 
 let escolha = opcao.question("Digite o número da sua escolha: ");
