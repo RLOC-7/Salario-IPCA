@@ -19,14 +19,14 @@ bash:
 `` node nome-do-script.js ``
 
 #### Siga as instruções apresentadas no console para escolher uma das opções disponíveis.
-###### Opções Disponíveis
 
-  - **¹ - Listar os salários mínimos de 1994 à 2023**
-    - Exibe a lista de salários mínimos para cada ano no período especificado.
-  - **² - Listar o índice IPCA de 1994 à 2023**
-    - Exibe o índice IPCA para cada ano no período especificado.
-  - **³ - Comparação entre o percentual de aumento salarial e o IPCA**
-    - Compara o percentual de crescimento salarial em relação ao ano anterior com o índice IPCA correspondente. 
+###### Opções Disponíveis
+- **¹ Listar os salários mínimos de 1994 à 2023**
+  - Exibe a lista de salários mínimos para cada ano no período especificado.
+- **² Listar o índice IPCA de 1994 à 2023**
+  - Exibe o índice IPCA para cada ano no período especificado.
+- **³ Comparação entre o percentual de aumento salarial e o IPCA**
+  - Compara o percentual de crescimento salarial em relação ao ano anterior com o índice IPCA correspondente. 
 
 ### Dados Utilizados
 Os dados de salário mínimo e IPCA foram inseridos manualmente no script para os anos de 1994 a 2023. Caso deseje atualizar ou adicionar mais anos, você pode modificar diretamente os arrays salarioMinimo e inflacao no código.
@@ -101,5 +101,6 @@ Os dados de salário mínimo e IPCA foram inseridos manualmente no script para o
 | 2022 | 5.79                |
 | 2023 | 3.75                |
 |------|---------------------|
+
 #### Nota
 Este script foi desenvolvido como uma ferramenta simples para análise de dados específicos. Sinta-se à vontade para adaptar e expandir conforme necessário para atender às suas necessidades.
