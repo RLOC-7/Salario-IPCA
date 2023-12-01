@@ -3,18 +3,22 @@ Este é um script simples em JavaScript que permite analisar os dados de salári
 
 **Como Utilizar**
 Clone este repositório:
+
 bash:
 `` git clone https://github.com/seu-usuario/seu-repositorio.git ``
 
 Navegue até o diretório do projeto:
+
 bash:
 `` cd seu-repositorio ``
 
 Instale as dependências:
+
 bash:
 `` npm install readline-sync ``
 
 Execute o script:
+
 bash:
 `` node nome-do-script.js ``
 
