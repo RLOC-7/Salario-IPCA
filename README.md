@@ -1,26 +1,19 @@
 # 💹 Análise de Salário Mínimo e IPCA
-Este é um script simples em JavaScript que permite analisar os dados de salário mínimo e índice IPCA (Índice Nacional de Preços ao Consumidor Amplo) no Brasil entre os anos de 1994 e 2023.
+Este é um script simples em JavaScript que permite analisar os dados de salário mínimo e índice **IPCA** (Índice Nacional de Preços ao Consumidor Amplo) no Brasil entre os anos de **1994** e **2023**.
 
 **Como Utilizar**
-Clone este repositório:
 
-bash:
-`` git clone https://github.com/seu-usuario/seu-repositorio.git ``
+Clone este repositório:
+bash: *`` git clone https://github.com/seu-usuario/seu-repositorio.git ``*
 
 Navegue até o diretório do projeto:
-
-bash:
-`` cd seu-repositorio ``
+bash: *`` cd seu-repositorio ``*
 
 Instale as dependências:
-
-bash:
-`` npm install readline-sync ``
+bash: *`` npm install readline-sync ``*
 
 Execute o script:
-
-bash:
-`` node nome-do-script.js ``
+bash: *`` node nome-do-script.js ``*
 
 #### Siga as instruções apresentadas no console para escolher uma das opções disponíveis.
 
@@ -33,9 +26,8 @@ bash:
   - Compara o percentual de crescimento salarial em relação ao ano anterior com o índice IPCA correspondente. 
 
 ### Dados Utilizados
-Os dados de salário mínimo e IPCA foram inseridos manualmente no script para os anos de 1994 a 2023. Caso deseje atualizar ou adicionar mais anos, você pode modificar diretamente os arrays salarioMinimo e inflacao no código.
+Os dados de salário mínimo e **IPCA** foram inseridos manualmente no script para os anos de **1994** a **2023**. Caso deseje atualizar ou adicionar mais anos, você pode modificar diretamente os arrays salarioMinimo e inflacao no código.
 
-###### Fonte dos Dados:
   - ## Salarios
 | Ano  | Salário Mínimo (R$)  |
 |------|----------------------|
